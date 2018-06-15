@@ -1,0 +1,14 @@
+@media screen and (min-color-index:0) and(-webkit-min-device-pixel-ratio:0) 
+{ @media { 	
+
+	header .v-align-wrap {
+		top:27px;
+	}
+	
+	#landing .v-align-wrap {
+		top:auto;
+		bottom:auto;
+		left:auto;
+		right:auto;
+	}
+}}
